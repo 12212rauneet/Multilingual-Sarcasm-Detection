@@ -57,7 +57,7 @@ Multilingual-Sarcasm-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/12212rauneet/Multilingual-Sarcasm-Detection.git
 cd Multilingual-Sarcasm-Detection
 ```
 
