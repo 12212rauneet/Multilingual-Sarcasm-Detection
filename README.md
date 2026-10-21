@@ -1,4 +1,7 @@
 # SarcasmAI — Multilingual Sarcasm Detection
+## 🚀 Live Demo
+
+[Click here to use SarcasmAI](https://multilingual-sarcasm-detection.onrender.com/)
 
 A machine learning web application that detects sarcasm in English and Hinglish text using TF-IDF feature extraction and Logistic Regression.
 
